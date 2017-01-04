@@ -28,4 +28,4 @@ now!
 3) Go to `system preferences > keyboard > shortcuts > services > general (at the bottom)` and assign it to a keystroke
 
 
-![Billy Mays here!](https://github.allstate.com/CompoZedPlatform/story_time/blob/master/images/Billy_Mays_Portrait_Cropped.jpg?raw=true)
+![Billy Mays here!](https://github.com/JordanICollier/story-time/blob/master/images/Billy_Mays_Portrait_Cropped.jpg)
